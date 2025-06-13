@@ -21,7 +21,8 @@
         "backgroundColor": "#ffffff"
       },
        "android": {
-"package": "com.thejasree.loginapp"    },
+ "package": "com.veni48.loginapp"  
+ },
       "edgeToEdgeEnabled": true
     },
     "web": {
