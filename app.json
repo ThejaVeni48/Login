@@ -20,6 +20,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+       "android": {
+"package": "com.thejasree.loginapp"    },
       "edgeToEdgeEnabled": true
     },
     "web": {
